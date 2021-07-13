@@ -10,6 +10,8 @@ How to discretize continuous state spaces, to use tabular solution methods to so
 
 ## Environment
 
+![Trained Agent][image1]
+
 ### Goal
 Get an under powered car to the top of the hill (top = 0.5 position)
 
@@ -40,7 +42,6 @@ Type: Discrete(3)
 
 MountinCar-v0 defines "solving" as getting average reward of -110.0 over 100 consective trails
 
-![Trained Agent][image1]
 
 ### Resources
 
